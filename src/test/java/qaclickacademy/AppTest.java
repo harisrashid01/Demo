@@ -35,5 +35,6 @@ public class AppTest
     {
         assertTrue( true );
         System.out.println("Changes made to code");
+        System.out.println(1+2);
     }
 }
